@@ -1,4 +1,4 @@
-# Task Management System
+# Task Management System- Assignment
 
 TaskNest is a simple and user-friendly Task Management System developed with NestJS for the backend and React JS with 🍰 [FSD (Feature-Sliced Design)](https://feature-sliced.design/) architecture for the frontend. The primary goal of this project is to learn NestJS and FSD.
 
